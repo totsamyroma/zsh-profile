@@ -1,0 +1,6 @@
+alias t='tmux'
+alias ta='t attach'
+alias td='t detach'
+alias tat='ta -t'
+alias tls='t ls'
+alias tks='t kill-server'
