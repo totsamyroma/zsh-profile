@@ -1,0 +1,6 @@
+alias c='rails c'
+alias s='rails s'
+alias rdb='rails db'
+alias rdbm='rails db:migrate'
+alias rdbs='rails db:seed'
+alias rdbc='rails db:console'
