@@ -20,6 +20,6 @@ alias gpf='gp -f'
 alias gpl='git pull'
 
 alias grb='git rebase'
-alias grm='grb master'
+alias grm='gcom && gpl && gco - && grb master'
 
 alias gs='git status'

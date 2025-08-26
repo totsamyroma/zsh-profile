@@ -19,6 +19,7 @@ plugins=(
   git
   gitignore
   kubectl
+  help
   macos
   man
   mysql-macports

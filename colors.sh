@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 colors=(black red green yellow blue magenta cyan white)

@@ -6,3 +6,5 @@ source_files() {
 
 source_files $HOME/sources/config/zsh-conf/aliases
 source_files $HOME/sources/config/zsh-conf/envs
+source_files $HOME/sources/config/zsh-conf/envs/work
+source <(fzf --zsh)
