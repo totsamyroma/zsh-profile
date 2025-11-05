@@ -4,3 +4,5 @@ copy() {
 }
 
 alias tf='tail -f'
+
+alias ls='ls -1F --color=auto'
