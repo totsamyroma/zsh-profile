@@ -14,3 +14,6 @@ VI_MODE_CURSOR_OPPEND=0
 
 # vim-like prompt with mode indicator
 PROMPT="\$(vi_mode_prompt_info) $PROMPT"
+
+# don't put username and hostname in terminal title
+DISABLE_AUTO_TITLE="true"
